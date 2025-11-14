@@ -46,8 +46,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/fc9163d8-d449-43b2-9cce-2280dcd84791" />
-" 
+    src="https://github.com/user-attachments/assets/fc9163d8-d449-43b2-9cce-2280dcd84791"
 />
 <img 
     align="left" 
