@@ -46,7 +46,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg](https://www.flaticon.com/free-icon/programing_15484291)](https://cdn-icons-png.flaticon.com/128/15484/15484291.png)" 
 />
 <img 
     align="left" 
