@@ -46,7 +46,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg(https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0)" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg(https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0)](https://www.flaticon.com/free-icon/programing_15484291)" 
 />
 <img 
     align="left" 
@@ -54,7 +54,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg(https://cdn-icons-png.flaticon.com/128/5968/5968282.png)" 
+    src="https://www.flaticon.com/br/icone-gratis/java_5968282" 
 />
 <img 
     align="left" 
