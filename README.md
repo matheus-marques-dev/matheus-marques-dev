@@ -55,7 +55,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/br/icone-gratis/java_5968282" 
+    src="https://github.com/user-attachments/assets/58fd6dee-b4ea-4399-8f0d-6208a7e3f95b"
 />
 <img 
     align="left" 
