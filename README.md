@@ -1,6 +1,6 @@
 # Matheus Marques
 
-**`Desenvolvedora Front End`**
+**`Desenvolvedor FullStack`**
 
 Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Doutor Júlio Cardoso, atualmente estou cursando Desenvolvimento de Software Multiplataforma pela Fatec Franca. Sou apaixonado por tecnologia e estou aprimorando meus conhecimentos nessa área que tanto amo em busca do meu primeiro emprego na área.
 
