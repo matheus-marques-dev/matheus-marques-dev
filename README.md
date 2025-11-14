@@ -55,7 +55,7 @@ Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Dou
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/58fd6dee-b4ea-4399-8f0d-6208a7e3f95b"
+    src="https://github.com/user-attachments/assets/bb752d25-207b-44c3-bbe7-4960ad652daf"
 />
 <img 
     align="left" 
