@@ -1,105 +1,48 @@
-# Matheus Marques
+<div align="center">
+  <h1>Matheus Marques</h1>
+  <h3>Desenvolvedor FullStack</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/matheus-marques-34227532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="mailto:matheusms.dev@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+  </p>
+</div>
 
-**`Desenvolvedor FullStack`**
+<br>
 
-Olá, me chamo Matheus, sou formado em Desenvolvimento de Sistemas pela Etec Doutor Júlio Cardoso, atualmente estou cursando Desenvolvimento de Software Multiplataforma pela Fatec Franca. Sou apaixonado por tecnologia e estou aprimorando meus conhecimentos nessa área que tanto amo em busca do meu primeiro emprego na área.
+### 👋 Sobre Mim
 
+Olá! Me chamo **Matheus**. Sou apaixonado por tecnologia e estou constantemente aprimorando meus conhecimentos em busca da minha primeira oportunidade profissional.
 
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (Etec Doutor Júlio Cardoso).
+- 📚 **Estudando:** Desenvolvimento de Software Multiplataforma (Fatec Franca).
+- 🎯 **Foco:** Desenvolvimento FullStack e criação de soluções eficientes.
 
-### 🤖 Linguagens e Tecnologias
+<br>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/fc9163d8-d449-43b2-9cce-2280dcd84791"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/bb752d25-207b-44c3-bbe7-4960ad652daf"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🛠️ Linguagens e Tecnologias
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;" />
+</div>
 
-### 📊 Estatísticas
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheus-marques-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Estatísticas do GitHub
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-marques-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-marques-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-marques-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
