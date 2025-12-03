@@ -14,17 +14,17 @@
 
 <br>
 
-### 👋 Sobre Mim
+### Sobre Mim
 
 Olá! Me chamo **Matheus**. Sou apaixonado por tecnologia e estou constantemente aprimorando meus conhecimentos em busca da minha primeira oportunidade profissional.
 
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (Etec Doutor Júlio Cardoso).
-- 📚 **Estudando:** Desenvolvimento de Software Multiplataforma (Fatec Franca).
-- 🎯 **Foco:** Desenvolvimento FullStack e criação de soluções eficientes.
+- **Formação:** Técnico em Desenvolvimento de Sistemas (Etec Doutor Júlio Cardoso).
+- **Estudando:** Desenvolvimento de Software Multiplataforma (Fatec Franca).
+- **Foco:** Desenvolvimento FullStack e criação de soluções eficientes.
 
 <br>
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 10px;" />
@@ -40,9 +40,3 @@ Olá! Me chamo **Matheus**. Sou apaixonado por tecnologia e estou constantemente
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-marques-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-marques-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
