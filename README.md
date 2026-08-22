@@ -20,7 +20,7 @@ Olá! Me chamo **Matheus**. Sou apaixonado por tecnologia e estou constantemente
 
 - **Formação:** Técnico em Desenvolvimento de Sistemas (Etec Doutor Júlio Cardoso).
 - **Estudando:** Desenvolvimento de Software Multiplataforma (Fatec Franca).
-- **Foco:** Desenvolvimento FullStack e criação de soluções eficientes.
+- **Foco:** Desenvolvimento back end e criação de soluções eficientes.
 
 <br>
 
