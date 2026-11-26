@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" role="img" aria-label="PORTFOLIO">
+  <title>Portfólio</title>
+  <rect width="112" height="28" fill="#CCF200"/>
+  <circle cx="16" cy="14" r="4" fill="#13160E"/>
+  <text x="66" y="18" fill="#13160E" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1.2">PORTFOLIO</text>
+</svg>

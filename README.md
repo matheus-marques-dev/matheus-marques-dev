@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://matheus-marques.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-CCF200?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfólio">
+      <img src="portfolio-badge.svg" alt="Portfólio" height="28">
     </a>
     <a href="https://www.linkedin.com/in/matheus-marques-34227532a/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
